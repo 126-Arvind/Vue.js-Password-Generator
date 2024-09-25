@@ -2,6 +2,14 @@
 
 Welcome to the Password Generator! This tool helps you create secure and customized passwords in a matter of seconds. 💡
 
+**🔍 Preview **
+Here’s a quick preview of the form UI:
+![image](https://github.com/user-attachments/assets/87e43bc7-f653-4db9-b0ed-1b5d5d5f102b)
+
+![image](https://github.com/user-attachments/assets/9d16eb5a-6145-4447-b22a-cc5e2215d8a7)
+
+
+
 
 **✨ Features**
 
