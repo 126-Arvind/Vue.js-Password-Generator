@@ -1,4 +1,4 @@
-#**🔒 Password Generator 🔒**
+**🔒 Password Generator 🔒**
 
 Welcome to the Password Generator! This tool helps you create secure and customized passwords in a matter of seconds. 💡
 
