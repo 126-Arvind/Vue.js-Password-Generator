@@ -5,7 +5,7 @@ Welcome to the Password Generator! This tool helps you create secure and customi
 
 **✨ Features**
 
-Password Length: Adjust the password length between 4 and 32 characters. 📝
+**Password Length:** Adjust the password length between 4 and 32 characters. 📝
 
 Include Uppercase Letters: Choose to include uppercase letters (e.g., A, B, C). 🔠
 
